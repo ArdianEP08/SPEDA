@@ -1,0 +1,269 @@
+.body{
+	color:white;
+	font-family:"avenir next";
+}
+li{
+	 font-family:"ARIAL";
+	list-style:none;
+
+}
+a {
+	color:inherit;
+	text-decoration:none
+}
+
+
+p{ font-family:"ARIAL";
+}
+.active{
+	 background-color:white;
+	color:black;
+}
+	
+.header {
+	  background-color: #010101;
+	  color: white;
+	  height: 90px;
+}
+.header-logo img{
+	  float: left;
+	  padding: 20px 40px;
+	 
+}
+
+
+.header-list li {
+	  float: left;
+	  padding: 30px 30px;
+      margin-left: 50px ;
+      margin-top:5px;
+	
+     
+}
+.header-list li:hover {
+	  float: left;
+	  padding: 30px 30px;
+      margin-left: 50px ;
+      margin-top:5px;
+	 background-color: #8a8781; 
+	  color:black;
+	  border:10px 141110;
+     
+}
+.header-list li {
+	  float: left;
+	  padding: 40px 40px;
+	  border-radius: 30px;
+      border:1px solid blue;
+      padding : 20px 40px;
+      margin-left: 20px ;
+      margin-top:10px;
+      background-color: #010101;
+	  
+}
+.kalkulator {
+	  padding: 100px; 
+      background-color: #d3d3d3;
+	  margin: 5px 5px;
+	  height:100%;
+	  font-family:"arial";
+	
+}
+
+.main {
+	  padding: 100px; 
+      background-color:  grey;
+	  margin: 5px 5px;
+	  height:100%;
+	  font-family:"arial";
+	
+}
+.medsos{
+	 height:900px;
+	 width:700px;
+	 margin-left:auto;
+	 margin-right:auto;
+}
+.medsos-icon {
+	float: left;
+	  margin-right: 70px;
+}
+.medsos-icon img{
+	height:100px;
+	width:100px;
+	display: block;
+	margin-right:auto;
+	margin-left:auto;
+	
+}
+.medsos h2{
+	font-family:"arial";
+}
+.medsos-icon p{
+	  font-size: 14px;
+	  text-align:center;
+
+}
+
+.contents {
+	  height: 720px;
+	  color: white;
+	  padding-left:25px;
+	  margin: 5px; 
+	  font-family:"ARIAL";
+}
+
+.contents img{
+	display:block;
+	margin-left:auto;
+	margin-right:15px;
+	float: left;
+}
+.contents-item{
+	background-color:#e8e8e8;
+	border-radius:10px ;
+}
+.contents-item img{
+	height:200px;
+	width:200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.contents-item p{
+	  font-size: 14px;
+	  text-align:center;
+	  margin-top: 5px;
+	  border:1px solid black;
+	  background-color:black;
+	  color:white
+
+	  
+}
+.contents-item :hover {
+	  cursor:pointer;
+	  
+
+}
+.contents-item h5:hover {
+	  font-size: 12px;
+	  text-align:center;
+	  color:green;
+	  cursor:pointer;
+}
+ .contents-item p:hover {
+	  font-size: 14px;
+	  text-align:center;
+	  margin-top: 5px;
+	  border:1px solid ;
+	  background-color: green;
+	  color:white;
+	  cursor:pointer;
+}
+.contents-item h5{
+	font-size: 12px;
+	margin-top:5px;
+	text-align:center;
+	color:black;
+}
+
+.contents h1{
+	color:black;
+	font-size:42;
+	text-align:center;
+}
+.contents h2{
+	color:black;
+	font-size:32;
+}
+
+
+.banner h2{ 
+	width:20%;
+	padding: 5px 10px;
+	text-align:center;
+	color:black;
+	border: 2px solid black;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:30px;
+	
+}
+.banner h2:hover{ 
+	width:20%;
+	padding: 5px 10px;
+	text-align:center;
+	color:white;
+	border: 2px solid white;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:30px;
+	background-color:green
+	
+}
+.contents h4{
+	color:black;
+	margin-left:450px;
+}
+ 
+.contents h3{
+	color:black;
+}
+.contents-item {
+	  float: left;
+	  margin-right: 70px;
+	  
+}
+.contact-form{
+	 height:900px;
+	 width:700px;
+}
+
+.deskripsi{
+	margin-top: 90px;
+	text-align: center;
+}
+.contact-form{
+		 height:100%;
+		margin-left: auto;
+		margin-right: auto;
+}
+ button{ color:white;
+ text-align:center;
+}
+.footer {
+
+	font-family:"ARIAL";
+	  background-color: black;
+	  height: 200px;
+	  color: #fff;
+}
+.footer-logo {
+      font-size: 32px;
+      float: left;
+	  padding: 30px 30px;
+	  margin:20px 20px;
+}
+
+.footer-list {
+    float: right;
+	padding:30px 0;
+	font-family:"ARIAL";
+	margin-right: 20px;
+
+}
+
+.footer-list2 {
+	padding-top:50px ;
+      text-align: center;
+      color: white;
+}
+
+.footer-list li { 
+		text-align:: center-left;
+		padding-bottom: auto;
+		margin-top: 10px;
+	   font-family:"ARIAL";
+	}
+

@@ -1,0 +1,164 @@
+body {
+      font-family: "Avenir Next";
+}
+
+li {
+	  list-style: none;
+}
+.title{
+	text-align: center;
+}
+.kop {
+	  background-color:#000000;
+	  color: #fff;
+	  height: 50px;
+}
+	   
+.header {
+	  background-color:#010101;
+	  color: #fff;
+	  height: 90px;
+}
+
+.header li:hover {
+	  background-color: #8a8781; 
+	  font-size:25px;
+	  color: white;
+	  border:7px 141110;
+}
+
+.header-logo img{
+	  float: left;
+	  width: 80px;
+	  height: 80px;
+	  border: 5px #ff1f57;
+	  border-radius: 5px;
+	  margin-left: 20px;
+}
+
+.header-logo2 {
+	  float: right;
+	  font-size: 25px;
+	  padding: 26px 30px;
+	  color:gold;
+	  background-color: #010101;
+	  border:7px #ffac42;
+	  border-radius: 5px;
+}
+
+.header-list li {
+	  float: left;
+	  padding: 40px 40px;
+	  border-radius: 30px;
+      border:1px solid blue;
+      padding : 20px 40px;
+      margin-left: 20px ;
+      margin-top:10px;
+      background-color: #010101;
+	  
+}
+
+.main {
+	padding: auto;
+    background-color: #d3d3d3;
+       	   
+}
+
+.copy-container span {
+      color: #ff4a4a;
+      margin-left: auto;
+	  margin-right: auto:	  
+}
+
+.contents1 {
+	  height: 80px;
+	  text-align:  left;
+	  margin-top: 20px;
+	
+}
+
+.contents1 p{
+	  text-align:center;
+	  font-size:14px;
+}
+
+.contents2  {
+	  height: 520px;
+	  margin-top: 100px;
+}
+
+.
+
+.contents2 .contents-item2 p {
+	  font-size: 14px;
+	  text-align:center;
+	  margin-top: 30px;
+	  border:2px solid blue;
+	  border-radius:25px;
+	  background-color:red;
+	  color:white
+}
+  
+.contents2 .contents-item2 p:hover {
+	  font-size: 14px;
+	  text-align:center;
+	  margin-top: 30px;
+	  border:2px solid red;
+	  border-radius:25px;
+	  background-color: blue;
+	  color:white
+}
+  
+.contents-item {
+	 text-align:center;
+	  margin-right: 20px;
+	  padding: 10px 10px;
+	  margin-left: auto;
+	  margin-right: auto:
+}
+.contents-item img{
+	  margin-left: auto;
+	  margin-right: auto;
+	  padding-left:60px;
+
+.contents-item2 {
+	  float: left;
+	  margin-right: 20px;
+}
+
+.contents3 {
+	  margin-top: 40px;
+	  margin-left: 60px;
+	  width: 500px 1000px;
+}
+
+.contents3 p{
+	  font-weight: normal;
+}
+
+
+}
+.footer {
+	  background-color: grey;
+	  height: 40px;
+	  color: #fff;
+	  padding: 40px 40px;;
+}
+
+.footer-logo {
+      font-size: 32px;
+      float: left;
+}
+
+.footer-list {
+      float: right;
+}
+
+.footer-list2 {
+      text-align: center;
+      color: gold;
+}
+
+.footer-list li { 
+      padding-bottom: 10px;
+}
